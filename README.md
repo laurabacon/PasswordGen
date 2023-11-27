@@ -5,7 +5,10 @@ Deploy Link: https://laurabacon.github.io/PasswordGen/
 This site is a password generator. When the page is loaded you are presented with an empyt box and a button that says 'generate password'.
 Upon clicking the button you are met with a series of confirms and prompts. After inputting how long and what kind of characters you would like to be included in this password, you will recieve a randomly generated password. 
 
+Upon Deploying:
+![Alt text](<Screen Shot 2023-11-27 at 3.09.49 PM 2.png>)
 
+After password is generated:
 ![Alt text](<Screen Shot 2023-11-27 at 3.05.04 PM 2.png>)
 
 
